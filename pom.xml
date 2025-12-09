@@ -8,7 +8,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/T-Kawano779/JavaTest202512</url>
+      <url>https://maven.pkg.github.com/T-Kawano779/20251209JarTest</url>
     </repository>
   </distributionManagement>
 </project>
